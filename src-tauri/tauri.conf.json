@@ -55,11 +55,11 @@
     },
     "windows": [
       {
-        "fullscreen": false,
-        "height": 600,
+        "fullscreen": true,
+        "minWidth": 1200,
+        "minHeight": 800,
         "resizable": true,
-        "title": "exist",
-        "width": 800
+        "title": "exist"
       }
     ]
   }
